@@ -1,0 +1,23 @@
+<html>
+<head><title> pemrograman web-html</title></head>
+<body bgcolor="cyan">
+<hi>membuat tabel</hi>
+<table border="1" align="center">
+<tr>
+<th colspan="4">DATA SISWA</th>
+</tr>
+<tr>
+<td>NO</td><td>NAMA</td><td>KELAS</td><td>Agama</td>
+</tr>
+<tr>
+<td>1</td><td>Armand Nouval</td><td>XRPL</td><td>Islam</td>
+</tr>
+<tr>
+<td>2</td><td>Yefta Jeovan</td><td>XRPL</td><td>Islam</td>
+</tr>
+<tr>
+<td>3</td><td>Hirka Anugrah</td><td>XRPL</td><td>Islam</td>
+</tr>
+</table>
+</body>
+</html>
